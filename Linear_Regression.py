@@ -3,8 +3,8 @@ import numpy as np
 import sklearn
 from sklearn import linear_model
 import matplotlib.pyplot as pyplot
-import pickle
 from matplotlib import style
+import pickle
 
 # Read CSV data file
 data = pd.read_csv("./student-mat.csv", sep=";")
