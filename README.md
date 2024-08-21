@@ -14,6 +14,6 @@ This project creates a simple linear regression model that will take first semes
 
 ## Visualization
 
-![Grade 1 x Final Grade](https://github.com/LuccaCoelho/SupervisedLearning--Linear_Regression--/blob/main/Grade%201%20x%20Final%20Grade.png)
-![Grade 2 x Final Grade](https://github.com/LuccaCoelho/SupervisedLearning--Linear_Regression--/blob/main/Grade%202%20x%20Final%20Grade.png)
-![Study Time x Final Grade](https://github.com/LuccaCoelho/SupervisedLearning--Linear_Regression--/blob/main/Study%20Time%20x%20Final%20Grade.png)
+![Grade 1 x Final Grade]([https://github.com/LuccaCoelho/SupervisedLearning--Linear_Regression--/blob/main/Grade%201%20x%20Final%20Grade.png](https://github.com/LuccaCoelho/SupervisedLearning--Linear_Regression--/blob/main/Graphs/Grade%201%20x%20Final%20Grade.png))
+![Grade 2 x Final Grade]([https://github.com/LuccaCoelho/SupervisedLearning--Linear_Regression--/blob/main/Grade%202%20x%20Final%20Grade.png](https://github.com/LuccaCoelho/SupervisedLearning--Linear_Regression--/blob/main/Graphs/Grade%202%20x%20Final%20Grade.png))
+![Study Time x Final Grade]([https://github.com/LuccaCoelho/SupervisedLearning--Linear_Regression--/blob/main/Study%20Time%20x%20Final%20Grade.png](https://github.com/LuccaCoelho/SupervisedLearning--Linear_Regression--/blob/main/Graphs/Study%20Time%20x%20Final%20Grade.png))
